@@ -3,6 +3,8 @@
 <a href="https://github.com/ViswaDecoders"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp; 
 <a href="https://www.linkedin.com/in/alapati-lakshmi-viswanath-7b1554194/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=ViswaDecoders&style=flat-square" alt=""/>
 </p>
 
 Hey there 👋
