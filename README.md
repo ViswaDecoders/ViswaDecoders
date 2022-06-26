@@ -1,4 +1,4 @@
-[![Viswanatha's GitHub Banner]([./assets/GitHubHeader.png)](https://user-images.githubusercontent.com/68096704/175796220-300b5d26-8750-4314-95c5-29c01df18204.png)](https://viswadecoders.github.io)
+[![Viswanatha's GitHub Banner](./github-header-image.png)](https://viswadecoders.github.io)
 
 👋 Hi, I’m @ViswaDecoders
 <!---
