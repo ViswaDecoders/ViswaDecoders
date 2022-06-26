@@ -38,6 +38,7 @@ I'm pursuing my B.Tech in Computer Science specialization in Cyber-Physical Syst
 </a> <br><br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ViswaDecoders&theme=dracula">
 <img src="https://github.com/ViswaDecoders/ViswaDecoders/blob/output/github-contribution-grid-snake.svg />
+![Snake animation](https://github.com/ViswaDecoders/ViswaDecoders/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="center">
