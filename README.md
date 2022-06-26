@@ -19,8 +19,6 @@ I'm pursuing my B.Tech in Computer Science specialization in Cyber-Physical Syst
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ViswaDecoders&theme=dracula">
 </p>
 
-## Contact me
-
 
 
 
