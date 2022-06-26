@@ -37,7 +37,7 @@ I'm pursuing my B.Tech in Computer Science specialization in Cyber-Physical Syst
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViswaDecoders&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> <br><br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ViswaDecoders&theme=dracula">
-![Snake animation](https://github.com/ViswaDecoders/ViswaDecoders/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/ViswaDecoders/ViswaDecoders/blob/output/github-contribution-grid-snake.svg />
 </p>
 
 <p align="center">
